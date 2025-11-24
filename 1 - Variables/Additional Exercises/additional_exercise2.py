@@ -9,3 +9,4 @@ num3 = input("6")
 answer():
 ans = (num1 + num2) / num3
 print("The total of ({10} + {8}) / {6} is {3}.".(num1,num2,num3,ans))
+print("The total of ({10} + {8}) / {6} is {3}.".(num1,num2,num3,ans))
