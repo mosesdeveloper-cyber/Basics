@@ -2,12 +2,11 @@
 #additional exercise 1
 #sample solution
 
-print("Number Addition")
-print("This program asks for three numbers and then outputs the total")
-print()
-num1 = int(input("Please enter a number: "))
-num2 = int(input("Please enter a second number: "))
-num3 = int(input("Please enter a third number: "))
-print()
+
+numbers():
+num1 = input("22")
+num2 = input("14")
+num3 = input("10")
+answer():
 ans = num1 + num2 + num3
-print("The total of {0} + {1} + {2} is {3}.".format(num1,num2,num3,ans))
+print(" {22} + {14} + {10} = {46}.".(num1,num2,num3,ans))
